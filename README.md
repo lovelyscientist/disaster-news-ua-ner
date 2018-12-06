@@ -5,9 +5,9 @@ This is a supplement code of the research dedicated to disaster news in Ukraine 
 
 ## Data
 
-####News were collected from web-portal of ukrainian news - 24tv.ua 
-####Collected database of news is stored in the "allnews.csv" 
-####Links to the news are stores in the  "urls_.csv"
+News were collected from web-portal of ukrainian news - 24tv.ua 
+Collected database of news is stored in the "allnews.csv" 
+Links to the news are stores in the  "urls_.csv"
 
 
 ## Libraries
