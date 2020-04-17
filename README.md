@@ -11,8 +11,10 @@ Script provided in `Disaster prediction.ipynb`:
 
 ### Data
 
-News were collected from web-portal of ukrainian news - 24tv.ua 
-Collected database of news is stored in the `allnews.csv`
+News were collected from the web-portal of Ukrainian news - *24tv.ua* 
+
+Database of the collected news is stored in the `allnews.csv`
+
 Links to the news are stores in the  `urls_.csv`
 
 ### Libraries
