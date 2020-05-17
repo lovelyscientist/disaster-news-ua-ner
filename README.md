@@ -1,6 +1,7 @@
 ### Usage Of Disaster News Information For Predicting Disasters In Ukraine
 
-This is a supplement code for the research dedicated to extraction of valuable terminology / facts from disaster-related news in Ukraine.
+This is a supplement code for the research dedicated to possibility of extraction of valuable terminology / facts from disaster-related news in Ukraine.
+The paper: Usage of Disaster News Information for Predicting the Emergency Situations in Ukraine, link: http://visnikkrnu.kdu.edu.ua/statti/2020_1_2020-1-93.pdf
 
 Script provided in `Disaster prediction.ipynb`:
 * collects news from one of the Ukrainian internet news portals (**24tv.ua**)
